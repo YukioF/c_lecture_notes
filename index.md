@@ -1,29 +1,57 @@
-## Welcome to GitHub Pages
+## 計算機科学演習　講義資料
 
-You can use the [editor on GitHub](https://github.com/YukioF/c_lecture_notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+計算機科学演習（第4回〜15回）の講義資料を閲覧・配布するためのサイトです．
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+下記の注意事項について同意頂いた上で，資料の閲覧をお願いいたします．
+
+<注意事項>  
+本資料は予習・復習等を目的として印刷して使用してください．  
+本資料は個人での利用にとどめてください．  
+
+### 第4回　条件分岐
 
 [第4回講義資料](Ex01.md)
 
+### 第5回　制御構造（ループ）
+
 [第5回講義資料](Ex02.md)
+
+### 第6回　C言語の関数
 
 [第6回講義資料](Ex03.md)
 
+### 第7回　配列とポインタ
+
 [第7回講義資料](Ex04.md)
+
+### 第8回　配列とポインタ 続き
 
 [第8回講義資料](Ex05.md)
 
+### 第9回　文字 (コンピュータでの文字の扱われ方を理解する )
+
 [第9回講義資料](Ex06.md)
+
+### 第10回　型と型変換
 
 [第10回講義資料](Ex07.md)
 
+### 第11回　ファイル入力（テキストファイル）
+
 [第11回講義資料](Ex08.md)
+
+### 第12回　ファイル出力（テキストファイル
 
 [第12回講義資料](Ex09.md)
 
+### 第13回　ファイル入力（バイナリファイル）と構造体
+
 [第13回講義資料](Ex10.md)
 
+### 第14回　ファイル出力 （バイナリファイル）と配列の動的確保
+
 [第14回講義資料](Ex11.md)
+
+### 第15回　画像処理（グレースケール変換、 平滑化、先鋭化、エッジ抽出）
 
 [第15回講義資料](Ex12.md)
