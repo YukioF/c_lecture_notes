@@ -6,34 +6,24 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [第4回講義資料](Ex01.md)
 
-### Markdown
+[第5回講義資料](Ex02.md)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[第6回講義資料](Ex03.md)
 
-```markdown
-Syntax highlighted code block
+[第7回講義資料](Ex04.md)
 
-# Header 1
-## Header 2
-### Header 3
+[第8回講義資料](Ex05.md)
 
-- Bulleted
-- List
+[第9回講義資料](Ex06.md)
 
-1. Numbered
-2. List
+[第10回講義資料](Ex07.md)
 
-**Bold** and _Italic_ and `Code` text
+[第11回講義資料](Ex08.md)
 
-[Link](url) and ![Image](src)
-```
+[第12回講義資料](Ex09.md)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[第13回講義資料](Ex10.md)
 
-### Jekyll Themes
+[第14回講義資料](Ex11.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YukioF/c_lecture_notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[第15回講義資料](Ex12.md)
