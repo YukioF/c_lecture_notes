@@ -2,5 +2,5 @@ theme: jekyll-theme-slate
 
 title: C lecture notes
 
-nav:
-  - test
+docs:
+- title: Introduction
