@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/YukioF/c_lecture_notes/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-{% link Ex01.md %}
+[第4回講義資料](Ex01.md)
 
 ### Markdown
 
